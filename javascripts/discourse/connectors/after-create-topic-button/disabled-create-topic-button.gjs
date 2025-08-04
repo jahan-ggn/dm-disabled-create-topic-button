@@ -11,7 +11,6 @@ const DisabledCreateTopicButton = <template>
           @icon="far-pen-to-square"
           @disabled={{true}}
           @label="topic.create"
-          id="create-topic"
           class="btn-default"
         />
       </:button>
