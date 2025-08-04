@@ -1,5 +1,5 @@
-# dm-disabled-create-topic-button
+# DM Disabled Create Topic Button
 
 **Theme Summary**
 
-For more information, please see: **url to meta topic**
+A disabled 'Create Topic' button with an explanatory tooltip for non-Insiders and anonymous users.
