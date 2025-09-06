@@ -5,11 +5,13 @@
     background: var(--tertiary);
     border-radius: var(--d-button-border-radius);
     transition: background 0.25s ease-out;
+
     &:hover,
     &:focus {
       background: var(--tertiary-hover);
       border: 2px solid var(--tertiary-hover);
     }
+
     .d-icon {
       color: var(--secondary);
     }
